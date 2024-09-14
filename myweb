@@ -1,0 +1,6 @@
+cd :\Users\ACER\Dropbox\PC\Documents>
+git init 
+git remote add origin https://github.com/rui-devmode/my_portfolio
+git add personalwebprojectnirubs.html webanimations.js webdesign.css webbg1.jpg webpfp.jpg
+git commit -m "personalwebprojectnirubs.html webanimations.js webdesign.css webbg1.jpg webpfp.jpg"
+git push origin main
